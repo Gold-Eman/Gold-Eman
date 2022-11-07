@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Gold-Eman/goldeman.github.io.git/static/css/main.4d77db74.css",
+    "main.js": "/Gold-Eman/goldeman.github.io.git/static/js/main.495a712e.js",
+    "static/media/GOLD-CV.pdf": "/Gold-Eman/goldeman.github.io.git/static/media/GOLD-CV.73ab07115b4481501999.pdf",
+    "static/media/profile.jpg": "/Gold-Eman/goldeman.github.io.git/static/media/profile.2f224761c7c4c83948f9.jpg",
+    "static/media/about.jpg": "/Gold-Eman/goldeman.github.io.git/static/media/about.b248d9abef88719aa7df.jpg",
+    "static/media/testimonial3.png": "/Gold-Eman/goldeman.github.io.git/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/Gold-Eman/goldeman.github.io.git/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/Gold-Eman/goldeman.github.io.git/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "static/media/logo.png": "/Gold-Eman/goldeman.github.io.git/static/media/logo.9327c3cf8f20945b9ac6.png",
+    "index.html": "/Gold-Eman/goldeman.github.io.git/index.html",
+    "main.4d77db74.css.map": "/Gold-Eman/goldeman.github.io.git/static/css/main.4d77db74.css.map",
+    "main.495a712e.js.map": "/Gold-Eman/goldeman.github.io.git/static/js/main.495a712e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d77db74.css",
+    "static/js/main.495a712e.js"
+  ]
+}
